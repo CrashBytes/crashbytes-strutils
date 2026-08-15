@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "crashbytes-strutils"
-version = "1.1.5"
+version = "1.1.6"
 description = "Zero-dependency string utilities — case conversion, slugify, masking, and more."
 readme = "README.md"
 license = "MIT"
